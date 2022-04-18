@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Adriansdls
+- 👀 I’m interested in applying AI to learning, politics and acting.
+- 🌱 I’m currently learning Data Science.
+- 💞️ I’m looking to collaborate on anything you think I might be able to help.
+- 📫 How to reach me: adrian.s.delasierra@gmail.com or www.linkedin.com/in/adrian-s-de-la-sierra/
